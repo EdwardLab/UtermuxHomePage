@@ -43,10 +43,12 @@ Utermux/侧划栏（左）/linux发行集合/flyos（官方安装可能不稳定
 
 我们推荐您使用脚本来安装：
 
-在UTermux或Termux中输入:curl http://flyosgeek.com/gosetup.sh | bash
+在UTermux或Termux中输入:
+
+curl http://flyosgeek.com/gosetup.sh | bash 然后稍等片刻
 
 稍等片刻，即可安装成功！
 
 交流群：440406148
 
-
+[！！！更多信息详见FlyOS官网！！！点此进入](http://flyosgeek.com)
