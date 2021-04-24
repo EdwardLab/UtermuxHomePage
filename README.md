@@ -45,7 +45,7 @@ Utermux/侧划栏（左）/linux发行集合/flyos（官方安装可能不稳定
 
 在UTermux或Termux中输入:
 
-curl http://flyosgeek.com/gosetup.sh | bash 然后稍等片刻
+curl http://flyosgeek.com/gosetup.sh｜bash 然后稍等片刻
 
 稍等片刻，即可安装成功！
 
