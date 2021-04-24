@@ -71,8 +71,8 @@ vim 是什么？
 
 
 [点此下载Utermux最新版(http://d.ixcmstudio.cn:21188/doc/Utermux%e7%9b%b8%e5%85%b3/UTermux_0.104.108.apk)
-# 其他的
-# 为Utermux搭配FlyOS使用（非常推荐安装
+# 其他的功能
+# 为Utermux搭配FlyOS使用（非常推荐安装和新手使用）
 FlyOS是为Termux开发的适用于新手或大佬的图形化web操控界面，搭配Utermux使用，您的手机就是神器！
 
 官方介绍：
